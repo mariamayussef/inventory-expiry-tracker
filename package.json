@@ -1,0 +1,1 @@
+{"name":"inventory-expiry-workspace","private":true,"scripts":{"build":"pnpm --dir frontend build","dev":"pnpm --dir frontend dev","db:local":"node scripts/local-db.mjs"},"devDependencies":{"embedded-postgres":"18.4.0-beta.17","@playwright/test":"1.58.2"}}

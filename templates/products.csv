@@ -1,0 +1,2 @@
+sku,name,category,barcode,unit,whole_units,expiry_tracked,threshold
+DEMO-001,Example oats,Dry goods,,kg,false,true,10

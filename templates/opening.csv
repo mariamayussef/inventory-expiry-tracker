@@ -1,0 +1,2 @@
+sku,lot,expiry_date,manufacture_date,quantity,supplier,location,reference,reason
+DEMO-001,EXAMPLE-LOT,2027-12-31,2026-10-01,25.125,Fictional supplier,A-01,OPEN-001,Confirmed opening count
